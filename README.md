@@ -9,7 +9,7 @@
 
 macro mart adalah sebuah website e-commerce.
 
-## Kejar Bahasa Team
+## Macro Mart Team
 
 1. **[Rizal Ihwan](https://github.com/rizalihwan)**
 2. **[Ichsan Arrizqi](https://github.com/IchsnArrzq)**
